@@ -19,6 +19,8 @@
 
 **7. Produção (KG) versus Refugo (KG)**: A dispersão dos pontos sugere uma correlação entre o aumento da produção e o aumento do refugo, o que pode indicar a necessidade de ajustes de produtividade padrão para manter a qualidade de entrega dos itens. 
 
+**8. Tempo de parada por Turno**: O Turno A apresenta mais paradas prolongadas, principalmente em Setup e Elétrica, sugerindo otimização nos processos de trocas de linhas. 
+
 🏆 O dashboard permite uma análise detalhada dos fatores que impactam o desempenho operacional, destacando áreas de melhoria como a redução do tempo de paradas e o balanceamento entre a produção e a qualidade. As tendências observadas podem guiar decisões estratégicas para melhorar a eficiência e eficácia da produção industrial.  
 
 
