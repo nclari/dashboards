@@ -2,6 +2,7 @@
 
 ✅ Objetivo: Dashboard desenvolvido no Looker Studio da Google com dados históricos da produção industrial de uma empresa fictícia. Este [relátorio](https://lookerstudio.google.com/s/lbkqoAAwSA4) fornece uma base para a revisão e planejamento estratégico de suas operações, com o objetivo de encontrar pontos de melhoria. Por meio de uma visão holística e diversificada, a empresa pode tomar decisões informadas para otimizar suas operações, melhorar a produtividade e aumentar a eficiência geral.
 
+✅ Conjunto de dados: O conjunto de dados abrange os registros de uma produção industrial com informações sobre dia, turno, quantidade produzida e quantidade de refugo além dos tempos de paradas e programação da produção. A base de dados foi disponibilizada durante o andamento das aylas práticas de Looker Studio oferecido pela plataforma FM2S.  
 
 📍**KPIs destacados:** 
 
