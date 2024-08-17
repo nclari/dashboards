@@ -1,4 +1,4 @@
-# #1. Dashboard de Produção
+# #1. Dashboard de Produção Industrial
 
 ✅ Objetivo: Dashboard desenvolvido no Looker Studio da Google com dados históricos da produção industrial de uma empresa fictícia. Este [relátorio](https://lookerstudio.google.com/s/lbkqoAAwSA4) fornece uma base para a revisão e planejamento estratégico de suas operações, com o objetivo de encontrar pontos de melhoria. Por meio de uma visão holística e diversificada, a empresa pode tomar decisões informadas para otimizar suas operações, melhorar a produtividade e aumentar a eficiência geral.
 
