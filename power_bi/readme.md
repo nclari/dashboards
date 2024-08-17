@@ -1,10 +1,6 @@
 # #1. Dashboard de Vendas
 
-✅ Objetivo: Dashboard desenvolvido no Power BI da Microsoft com dados de vendas de produtos de uma empresa fictícia. Este [relátorio](https://app.powerbi.com/view?r=eyJrIjoiZGUwNjcxNWEtODEyZC00ZWNmLThmNWYtZjVkZjc0NTgzOTViIiwidCI6ImIxMDUxYzRiLTNiOTQtNDFhYi05NDQxLWU3M2E3MjM0MmZkZCJ9) fornece uma base para a revisão e planejamento estratégico de suas operações, com o objetivo de encontrar pontos de melhoria. Por meio de uma visão holística e diversificada, a empresa pode tomar decisões informadas para otimizar suas operações, melhorar a produtividade e aumentar a eficiência geral.
-
-Analisar dados de vendas permite que as empresas acompanhem suas vendas e respondam a todas as perguntas críticas sobre seu desempenho.
-
-
+✅ Objetivo: Dashboard desenvolvido no Power BI da Microsoft com dados de vendas de produtos de uma empresa fictícia. Este [relátorio](https://app.powerbi.com/view?r=eyJrIjoiZGUwNjcxNWEtODEyZC00ZWNmLThmNWYtZjVkZjc0NTgzOTViIiwidCI6ImIxMDUxYzRiLTNiOTQtNDFhYi05NDQxLWU3M2E3MjM0MmZkZCJ9) permite o acompanhamento das vendas e possibilita responder a perguntas-chave sobre o desempenho de vendas para impulsionar o planejamento estratégico da empresa.
 
 ✅ Conjunto de dados: O conjunto de dados foi obtido por meio do site oficial da [Microsoft](https://learn.microsoft.com/en-us/power-bi/create-reports/sample-financial-download), sendo um compilado de dados de vendas de uma empresa com informações abertas por produtos, região, segmentos e descontos aplicados. 
 
