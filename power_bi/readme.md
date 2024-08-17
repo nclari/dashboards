@@ -1,8 +1,12 @@
 # #1. Dashboard de Vendas
 
-✅ Objetivo: Dashboard desenvolvido no Looker Studio da Google com dados históricos da produção industrial de uma empresa fictícia. Este [relátorio](https://lookerstudio.google.com/s/lbkqoAAwSA4) fornece uma base para a revisão e planejamento estratégico de suas operações, com o objetivo de encontrar pontos de melhoria. Por meio de uma visão holística e diversificada, a empresa pode tomar decisões informadas para otimizar suas operações, melhorar a produtividade e aumentar a eficiência geral.
+✅ Objetivo: Dashboard desenvolvido no Power BI da Microsoft com dados de vendas de produtos de uma empresa fictícia. Este [relátorio](https://app.powerbi.com/view?r=eyJrIjoiZGUwNjcxNWEtODEyZC00ZWNmLThmNWYtZjVkZjc0NTgzOTViIiwidCI6ImIxMDUxYzRiLTNiOTQtNDFhYi05NDQxLWU3M2E3MjM0MmZkZCJ9) fornece uma base para a revisão e planejamento estratégico de suas operações, com o objetivo de encontrar pontos de melhoria. Por meio de uma visão holística e diversificada, a empresa pode tomar decisões informadas para otimizar suas operações, melhorar a produtividade e aumentar a eficiência geral.
 
-✅ Conjunto de dados: O conjunto de dados abrange os registros de uma produção industrial com informações sobre dia, turno, quantidade produzida e quantidade de refugo além dos tempos de paradas e programação da produção. A base de dados foi disponibilizada durante o andamento das aylas práticas de Looker Studio oferecido pela plataforma FM2S.  
+Analisar dados de vendas permite que as empresas acompanhem suas vendas e respondam a todas as perguntas críticas sobre seu desempenho.
+
+
+
+✅ Conjunto de dados: O conjunto de dados foi obtido por meio do site oficial da [Microsoft](https://learn.microsoft.com/en-us/power-bi/create-reports/sample-financial-download), sendo um compilado de dados de vendas de uma empresa com informações abertas por produtos, região, segmentos e descontos aplicados. 
 
 📍**KPIs destacados:** 
 
