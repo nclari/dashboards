@@ -1,10 +1,10 @@
 # #1. Dashboard de Vendas
 
-✅ Objetivo: Dashboard desenvolvido no Power BI da Microsoft com dados de vendas de produtos de uma empresa fictícia. Este [relátorio](https://app.powerbi.com/view?r=eyJrIjoiZGUwNjcxNWEtODEyZC00ZWNmLThmNWYtZjVkZjc0NTgzOTViIiwidCI6ImIxMDUxYzRiLTNiOTQtNDFhYi05NDQxLWU3M2E3MjM0MmZkZCJ9) permite o acompanhamento das vendas e possibilita responder a perguntas-chave sobre o desempenho de vendas para impulsionar o planejamento estratégico da empresa.
+✅ Objetivo: Dashboard desenvolvido no Power BI da Microsoft com dados de vendas de produtos de uma empresa fictícia. Este [relátorio](https://app.powerbi.com/view?r=eyJrIjoiNzA0MmY2ZmYtNTIxNS00YmY1LWJmOTItNTc3OGMzYmE1NTZlIiwidCI6ImIxMDUxYzRiLTNiOTQtNDFhYi05NDQxLWU3M2E3MjM0MmZkZCJ9) permite o acompanhamento das vendas e possibilita responder a perguntas-chave sobre o desempenho de vendas para impulsionar o planejamento estratégico da empresa.
 
-✅ Conjunto de dados: O conjunto de dados foi obtido por meio do site oficial da [Microsoft](https://learn.microsoft.com/en-us/power-bi/create-reports/sample-financial-download), sendo um compilado de dados de vendas de uma empresa com informações abertas por produtos, região, segmentos e descontos aplicados. 
+✅ Conjunto de dados: O conjunto de dados foi obtido por meio do banco de dados disponibilizado pela [Maven Analytics](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&tags=Retail), sendo um compilado de dados de vendas de uma empresa com informações abertas por produtos, região, categrias e útimo inventário. 
 
-📍**KPIs e Insights destacados:** 
+📍**Análises e Insights destacados:** 
 
 **1. Desempenho de Vendas e Impacto de descontos**: Cerca de 7% do valor de venda bruta foi concedida em descontos, o que podemos avaliar a eficácia dos descontos e considerar a possibilidade de reduzir a dependência deles, aumentando a margem de lucro;
 
